@@ -21,7 +21,7 @@ This page is currently under contruction and will be online soon.</a></p>
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:naveedkhan_a@hotmail.com">email</a></li>
+        		<li><a href="mailto:">email</a></li>
 			</ul>
 		</footer>
 	</body>
