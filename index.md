@@ -2,9 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Welcome to Cloudene</title>
-	</head>
 	<body>
 		<nav>
     		<ul>
@@ -18,7 +15,7 @@
     		<div class="blurb">
         		<h1>Hi this site is about cloud Services!</h1>
 				<p>Feel free to add this page in your book mark and come back again!
-This page is currently under contruction and will be online soon.</a></p>
+This page is currently under contruction and will be online soon</p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
