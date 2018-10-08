@@ -1,5 +1,5 @@
-## Welcome to Cloudene
 <!DOCTYPE html>
+## Welcome to Cloudene
 <html>
 	<head>
 		<title>Welcome to Cloudene</title>
@@ -9,8 +9,8 @@
     		<ul>
         		<li><a href="/">Home</a></li>
 	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
+        		<li><a href="/Services">CV</a></li>
+        		<li><a href="/Contact">Blog</a></li>
     		</ul>
 		</nav>
 		<div class="container">
