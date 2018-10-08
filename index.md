@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 ## Welcome to Cloudene
 <html>
 	<head>
