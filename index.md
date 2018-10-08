@@ -1,4 +1,4 @@
-## Welcome to Cloudene
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Welcome to Cloudene</title>
